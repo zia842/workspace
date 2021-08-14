@@ -1,0 +1,12 @@
+package com.spring.currency.exchange.service;
+
+import java.math.BigDecimal;
+
+public class CurrencyExchange {
+
+	private Long id;
+	private String from;
+	private String to;
+	private BigDecimal conversionMultiple;
+	
+}

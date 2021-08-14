@@ -1,0 +1,7 @@
+package com.spring.limits.service;
+
+public class Limits {
+
+	private int minimum;
+	private int maximum;
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="springbasics"/>
+<aop-project name="naming-server"/>
+<aop-project name="currency-exchange-service"/>
+<aop-project name="currency-conversion-service"/>
+<aop-project name="api-gateway"/>
+</aop-reference-model>

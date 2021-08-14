@@ -1,0 +1,5 @@
+package com.spring.limits.service;
+
+public class Limits {
+
+}
